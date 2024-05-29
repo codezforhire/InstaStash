@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toggle_size">30dp</dimen>
+    <dimen name="container_width">144dp</dimen>
+    <dimen name="container_height">64dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

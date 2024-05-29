@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740119002328",
+    "project_id": "instastash-c1a56",
+    "storage_bucket": "instastash-c1a56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740119002328:android:b85cacf2137dc842452bad",
+        "android_client_info": {
+          "package_name": "com.example.instastash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6pZ1lBhYxMb_t1-_x2nIZKeWUYFQU-TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
